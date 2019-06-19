@@ -1,0 +1,2 @@
+# latihanlagi
+ini latihan mid
