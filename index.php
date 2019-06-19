@@ -1,5 +1,5 @@
 <?php 
-		$a="Saya Latihan Kakas"
+		$a = "Saya Latihan Kakas";
 		echo $a;
 
  ?>
