@@ -1,5 +1,5 @@
 <?php 
-		$a="Saya Latihan Kakas Hari ini"
+		$a="Saya Latihan Kakas"
 		echo $a;
 
  ?>
